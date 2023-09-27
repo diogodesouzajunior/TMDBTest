@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="movie_categories">
+        <item>Now Playing</item>
+        <item>Popular</item>
+        <item>Top Rated</item>
+        <item>Upcoming</item>
+    </string-array>
+
+    <string name="cd_movie_poster">Movie Poster</string>
+    <string name="release_date">Release Date: %s</string>
+    <string name="runtime">Runtime: %d mins</string>
+</resources>
